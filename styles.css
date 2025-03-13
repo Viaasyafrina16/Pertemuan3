@@ -1,0 +1,41 @@
+body {
+    background-color: #faebd7; /* Warna krem */
+    font-family: Arial, sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+}
+
+.container {
+    background-color: #fff8dc; /* Warna kuning pucat */
+    border: 2px solid black;
+    padding: 20px;
+    width: 350px;
+    text-align: center;
+}
+
+h1 {
+    font-size: 24px;
+    margin-bottom: 15px;
+}
+
+.gambar {
+    width: 100%;
+    max-width: 250px;
+    height: auto;
+    margin-bottom: 15px;
+}
+
+.judul {
+    font-size: 14px;
+    font-weight: bold;
+    color: black;
+}
+
+.deskripsi {
+    font-size: 12px;
+    text-align: justify;
+    color: black;
+}
